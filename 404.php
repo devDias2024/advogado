@@ -35,7 +35,7 @@
                   <div class="icon novi-icon mdi mdi-phone"></div><a href="http://api.whatsapp.com/send?1=pt_BR&phone=5591992464987" title="WhatsApp 91 99246-4987">91 99246-4987</a>
                 </div>
                 <ul class="list-lined">
-                  <li><a href="#">Entrar</a></li>
+                  <li><a href="#">logar</a></li>
                  
                 </ul>
               </div>
